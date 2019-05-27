@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Given a string of characters, determine if it is a palindrome or not
+
+
 class ChkPalindrome
 {
     public static void main(String args[])
